@@ -1,6 +1,6 @@
 #	YNCNEO_UDPTransfer | ゆかコネNEO UDP転送プラグイン  
 
-「ゆかりねっとコネクターNEO」（以下、ゆかコネNEO）のPython連携プラグイン用モジュールです。  
+「[ゆかりねっとコネクターNEO](https://nmori.github.io/yncneo-Docs/)」（以下、ゆかコネNEO）のPython連携プラグイン用モジュールです。  
 
 Plugin for Yukarinette Connector NEO(YNC NEO) that allows to transfer SR result to any UDP server  
 
@@ -17,6 +17,7 @@ Plugin for Yukarinette Connector NEO(YNC NEO) that allows to transfer SR result 
 ##	使い方
 1.	本リポジトリから最新の `UDPTransfer.py` をダウンロードします。
 2.	必要に応じて、 `UDPTransfer.py` の中身を編集し、宛先IPアドレスやポート番号を変更します。
+3.	[ゆかコネNEOを導入](https://nmori.github.io/yncneo-Docs/download/)します。
 3.	ゆかコネNEOの「Python 連携」プラグイン（以下、Python連携）を有効化します。  
 （有効化にあたっては[ゆかコネNEOのマニュアル](https://nmori.github.io/yncneo-Docs/plugin/plugin_pythonunit/)に従って行うこと）  
 4.	Python連携の設定画面を開き、[フォルダを開く]を押下します。
