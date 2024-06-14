@@ -26,7 +26,7 @@ Plugin for Yukarinette Connector NEO(YNC NEO) that allows to transfer SR result 
 7.	連携先（UDP送信先）を用意し、通常通り使用します。
 
 ##	使用例  
-同じく私が作成した、PCゲーム用音声コマンディングツール「[SR2Control](https://github.com/Domtaro/)」で使用しています。
+同じく私が作成した、PCゲーム用音声コマンディングツール「[SR2Control](https://github.com/Domtaro/SR2Control)」で使用しています。
 （というか、そのために作成しました。）
 
 ## ライセンス／利用規約
